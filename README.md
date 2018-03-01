@@ -3,13 +3,17 @@
 Another successful attempt to exploit FIFA STREET 2 for the Nintendo DS to execute unsigned code from the savegame.
 
 * The exploit supports both US/EUR region carts. 
-* EUR version will be supported soon.
 
 Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS family. Including emulators.
 ###
-## Usage for patching the savefile
+## Usage for patching the savefile (US)
 * Win32: `street2fixsum street2save(US/EUR).sav` 
 * Linux: `./street2fixsum street2save(US/EUR).sav`
+
+## Usage for patching the savefile (EUR)
+* Win32: `street2fixsum/europe street2save(US/EUR).sav` 
+* Linux: `./street2fixsum/europe street2save(US/EUR).sav`
+
 ###
 ## Triggering the exploit
 Navigate to My Street, go to Profile, then go to Edit my Profile
