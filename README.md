@@ -15,8 +15,6 @@ Runs in NTR/NDS mode. This exploit works on any of the Nintendo DS family. Inclu
 Navigate to My Street, go to Profile, then go to Edit my Profile
 
 ## Credits:
-* jerbear64 (Testing the exploit for retail)
-* JAFE repo CRCFix Code (TO BE ADDED SOON)
-* wintermute (CRC code for now)
+* jerbear64 (Testing the exploit for retail & compiling the street2fixsum.cpp)
 * St4rk (Payload code)
 * CTurt (For the guide on stack smashing nds games) https://cturt.github.io/DS-exploit-finding.html
